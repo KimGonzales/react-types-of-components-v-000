@@ -65,7 +65,7 @@ repeatedly given the same initial values (props and state), it should behave the
 same way each time. So, if props and state aren't changing, there is no need to
 update the component.
 
-If you don't need to fine tune how a class component updates, considered
+If you don't need to fine tune how a class component updates, consider
 converting most or all of your regular components into pure components.
 
 #### Functional Components
